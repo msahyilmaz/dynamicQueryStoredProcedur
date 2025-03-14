@@ -13,7 +13,7 @@ Bu örnekte dinamik bir sorgu ile:
 - Sıralama nasıl yapılır, gösterilmektedir.
 ## Örnek UI ekranı
 
-![Filtreleme Ekranı](https://example.com/örnek_resim.png)
+![Filtreleme Ekranı](https://github.com/msahyilmaz/dynamicQueryStoredProcedur/blob/main/2025-03-14_130410.jpg)
 
 ## Stored Procedure SQL
 
